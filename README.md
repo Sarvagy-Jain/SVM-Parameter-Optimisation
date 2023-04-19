@@ -1,4 +1,4 @@
-# Parameter-Optimization-of-SVM
+# SVM-Parameter-Optimization
 
 ## Dataset Description:
 This dataset was used in several classifications tasks related to the challenge of anuran species recognition through their calls. Each audio corresponds to one specimen (an individual frog), the record ID is also included as an extra column.
