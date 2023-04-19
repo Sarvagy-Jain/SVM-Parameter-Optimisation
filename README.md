@@ -17,10 +17,12 @@ The best parameters of SVC for the given dataset are:
 - C : 0.899134
 - Gamma : 0.895362  
 
+The above parameter gave a maximum accuracy of 0.60
+
 
 ## Sample Data Accuracy
 ![image](https://github.com/Sarvagy-Jain/SVM-Parameter-Optimisation/blob/main/sample_table.PNG)<br>
-The above parameter gave a maximum accuracy of 0.60
+
 
 ## Convergence graph  : 
 
