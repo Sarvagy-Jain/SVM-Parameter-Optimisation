@@ -14,12 +14,14 @@ This dataset was used in several classifications tasks related to the challenge 
 
 The best parameters of SVC for the given dataset are:
 - Kernel : poly
-- C : 6.38460 
-- Gamma : 0.546304    
+- C : 0.899134
+- Gamma : 0.895362  
 
-The above parameter gave a maximum accuracy of 0.8022
+The above parameter gave a maximum accuracy of 0.60
 
-### Convergence graph  : 
+## Convergence graph  : 
+
+![image](https://github.com/Sarvagy-Jain/SVM-Parameter-Optimisation/blob/main/learn.png)
 
 
 
